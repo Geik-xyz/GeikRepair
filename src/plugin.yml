@@ -1,0 +1,9 @@
+name: GeikRepair
+main: com.geik.repair.exp.Main
+version: 2.0
+author: Geik
+api-version: 1.13
+depend: [TitleManager]
+commands:
+  tamir:
+    description: tamir
